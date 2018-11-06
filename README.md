@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mgorsk1/python-in-a-notebook/master)
+
 # Python in a Notebook #
 
 This repository contains a curated collection of Jupyter/IPython Notebooks of 
@@ -20,7 +22,7 @@ All you need to do to play notebooks is to open a Terminal, and type the followi
 
     jupyter notebook
     
-
+Alternatively use **Binder** on the top of this README.md
 **That's it!** :)
 
 ## Programming Environment
