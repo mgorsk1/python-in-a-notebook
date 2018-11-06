@@ -1,6 +1,6 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mgorsk1/python-in-a-notebook/master)
-
 # Python in a Notebook #
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mgorsk1/python-in-a-notebook/master)
 
 This repository contains a curated collection of Jupyter/IPython Notebooks of 
 introductory materials about programming in Python.
